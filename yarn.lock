@@ -9194,9 +9194,9 @@ vuetify-loader@^1.4.3:
     loader-utils "^1.2.0"
 
 vuetify@^2:
-  version "2.2.33"
-  resolved "https://registry.npm.taobao.org/vuetify/download/vuetify-2.2.33.tgz#0946ce4c437b27846b500ec5d1e92267e31fbf35"
-  integrity sha1-CUbOTEN7J4RrUA7F0ekiZ+MfvzU=
+  version "2.6.10"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.6.10.tgz#b86cd7a97bf8cd3828a72c349795b5b3c539ebc2"
+  integrity sha512-fgUeRDDCwYkwu6WGEEKGe7IdfzOsXJCZGrqkn1pcS2ycuoDL8mR2/dejH5iFNnBY6MnsT365PAGn0J+9otjfQg==
 
 vuex@^3.1.3:
   version "3.4.0"
